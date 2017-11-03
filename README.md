@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 3rd, 2017
 
 ### Student Name:  
-(First and Last Name)
+Adam Powell
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We learned about HTML DOM and how to get javascript to edit a HTML document.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://adam266.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Creating the arrows to navigate the photo gallery.
+2. The BOM (browser object model) conatins the document object whic represents the contents of a document within the browser.
+3. Javascript can be used to modify page content based on external events. 
